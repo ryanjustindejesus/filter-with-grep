@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-In this lab, I learned how to navigate a Linux file structure, locate files, and read file contents.
+In this lab, I learned how to use the grep command and piping to search for files and return specific information.
 <br />
 
 
