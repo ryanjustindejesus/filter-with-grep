@@ -12,7 +12,7 @@ In this lab, I learned how to use the grep command and piping to search for file
 - <b>Searching for error messages in a file</b> 
 - <b>Searching for files that contain a specific string</b>
 - <b>Searching for information in user files</b> 
-- <b>Displaying the first 10 lines of a file</b>
+
 
 
 <h2>Environments Used </h2>
