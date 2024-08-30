@@ -9,11 +9,10 @@ In this lab, I learned how to use the grep command and piping to search for file
 
 <h2>Completed Tasks in this Lab</h2>
 
-- <b>Finding the current working directory and display its contents</b> 
-- <b>Navigating to a directory and list subdirectories</b>
-- <b>Displaying the contents of a file</b> 
+- <b>Searching for error messages in a file</b> 
+- <b>Searching for files that contain a specific string</b>
+- <b>Searching for information in user files</b> 
 - <b>Displaying the first 10 lines of a file</b>
-
 
 
 <h2>Environments Used </h2>
