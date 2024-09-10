@@ -25,7 +25,7 @@ In this lab, I learned how to use the grep command and piping to search for file
 In this task, I navigated to the /home/analyst/logs directory and reported on the error messages in the server_logs.txt file.
  <br /> <br />
 (1) First, I used the command "cd logs" to navigate to the logs directory. <br/> <br/>
-(2) Then, I used the command "grep error server_logs.txt" to filter the server_logs.txt file, and return all lines containing the text string error. <br /> <br /> <p align="center">
+(2) Finally, I used the command "grep error server_logs.txt" to filter the server_logs.txt file, and return all lines containing the text string error. <br /> <br /> <p align="center">
 <img src="https://imgur.com/hu2RJN2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
 
