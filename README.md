@@ -33,7 +33,7 @@ In this task, I navigated to the /home/analyst/logs directory and reported on 
  In this task, I navigated to the /home/analyst/reports/users directory and used the correct Linux commands and arguments to search for user data files that contain a specific string in their names.
  <br />  <br />
 (1) First, I used the command "cd /home/analyst/reports/users" to navigate to the users directory. <br/> <br/>
-(2) Then, I used the command "ls | grep Q1" to pipe the output of the ls command to the grep command to list only the files containing the string Q1 in their names. <br/> <br/>
+(2) Next, I used the command "ls | grep Q1" to pipe the output of the ls command to the grep command to list only the files containing the string Q1 in their names. <br/> <br/>
 (3) Finally, I used the command "ls | grep access" to list the files that contain the word access in their names. 
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/KNq3SOo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
@@ -43,7 +43,7 @@ In this task, I navigated to the /home/analyst/logs directory and reported on 
 In this task, I searched for information contained in user files and reported on users that were added and deleted from the system.
  <br /> <br/>
 (1) First, I used the command "cd /home/analyst/reports/user" to display the files in the /home/analyst/reports/users directory. <br/> <br/>
-(2) Then, I used the command "grep jhill Q2_deleted_users.txt" to search the Q2_deleted_users.txt file for the username jhill. <br/> <br/>
+(2) Next, I used the command "grep jhill Q2_deleted_users.txt" to search the Q2_deleted_users.txt file for the username jhill. <br/> <br/>
 (3) Finally, I used the command "grep "Human Resources" Q4_added_users.txt" to search the Q4_added_users.txt file to list the users who were added to the Human Resources department. <br/> <br/><p align="center">
 <img src="https://imgur.com/MsUj5Xu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
